@@ -1,0 +1,14 @@
+{
+    "name": "aaemnnosttv/nag-squelcher",
+    "description": "Shush with the nagging!",
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Evan Mattson",
+            "email": "me@aaemnnost.tv"
+        }
+    ]
+}
